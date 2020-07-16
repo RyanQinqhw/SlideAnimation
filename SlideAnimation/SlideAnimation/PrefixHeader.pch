@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  SlideAnimation
+//
+//  Created by 明镜止水 on 16/10/21.
+//  Copyright © 2016年 明镜止水. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define WIDTH [UIScreen mainScreen].bounds.size.width
+#define HEIGHT  [UIScreen mainScreen].bounds.size.height
+#define menuBlankWidth 50
+#define fatorW 0.3
+#define fatorH 1.0
+#endif /* PrefixHeader_pch */
